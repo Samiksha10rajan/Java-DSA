@@ -12,5 +12,6 @@ public class StudentInfo {
         System.out.println("\nName: " + name);
         System.out.println("Age: " + age);
         System.out.println("Percentage: " + percentage);
+        sc.close();
     }
 }
