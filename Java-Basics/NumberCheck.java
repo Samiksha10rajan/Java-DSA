@@ -13,6 +13,7 @@ public class NumberCheck{
         } else {
             System.out.println("X is Zero.");
         }
+        
         sc.close();
     }
 }
